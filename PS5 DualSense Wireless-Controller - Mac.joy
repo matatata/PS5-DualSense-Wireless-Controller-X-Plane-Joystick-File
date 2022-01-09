@@ -1,0 +1,160 @@
+I
+1100 Version
+JOY
+
+OS: Mac
+
+
+Name: Dualsense Wireless Controller
+Name: Wireless Controller
+Display: PS5 DualSense Wireless-Controller (Bluetooth/USB)
+
+ID: VID:0x054cPID:0x0ce6
+
+
+# Created by Matteo Ceruti (Frankfurt/Germany)
+
+
+Assignments:
+--------------------------------------------------------------
+
+# Left Stick
+Axis 0: joy_use_roll
+Axis 1: joy_use_ptch
+# Right Stick
+Axis 2: joy_use_hdng
+Axis 3: joy_use_commands  sim/engines/throttle_up sim/none/none  sim/none/none sim/engines/throttle_down
+
+
+#L2
+Axis 4: joy_use_lbrk
+#R2
+Axis 5: joy_use_rbrk
+
+# L1
+Button 4: sim/general/zoom_out
+# L2
+Button 5: sim/general/zoom_in
+
+
+# L2 axis also sends button events
+# Button 6: sim/none/none
+Button 6: hidden
+# R2 axis also sends button events
+# Button 7: sim/none/none
+Button 7: hidden
+
+
+
+
+# box
+Button 0: sim/general/left
+# X
+Button 1: sim/general/down
+# O
+Button 2: sim/general/right
+# △
+Button 3: sim/general/up
+
+
+
+# Create
+Button 8: sim/none/none
+# Pad
+Button 13: sim/none/none
+# Option
+Button 9: sim/none/none
+
+# Press Left Stick
+Button 10: sim/flight_controls/pitch_trim_down
+
+# Press Right Stick
+Button 11: sim/flight_controls/pitch_trim_up
+
+# PS
+Button 12: sim/none/none
+
+# only available when connected via USB
+# Button 14: sim/none/none
+Button 14: hidden
+
+
+Hat Switch 0 Direction 0: sim/general/hat_switch_up
+Hat Switch 0 Direction 1: sim/general/hat_switch_up_right
+Hat Switch 0 Direction 2: sim/general/hat_switch_right
+Hat Switch 0 Direction 3: sim/general/hat_switch_down_right
+Hat Switch 0 Direction 4: sim/general/hat_switch_down
+Hat Switch 0 Direction 5: sim/general/hat_switch_down_left
+Hat Switch 0 Direction 6: sim/general/hat_switch_left
+Hat Switch 0 Direction 7: sim/general/hat_switch_up_left
+
+Axis 0 Type: centerable
+Axis 1 Type: centerable
+Axis 2 Type: centerable
+Axis 3 Type: centerable
+Axis 4 Type: linear
+Axis 5 Type: linear
+
+
+Axis 0 Calibration: Auto
+Axis 1 Calibration: Auto
+Axis 2 Calibration: Auto
+Axis 3 Calibration: Auto
+Axis 4 Calibration: Auto
+Axis 5 Calibration: Auto
+
+
+
+
+View: Front
+--------------------------------------------------------------
+Image: PS5 DualSense Wireless-Controll-Front.png
+
+Hat Switch 0 (Hat Switch): 129 224
+
+
+# Left Stick
+Axis Group (Left Stick): 0 1
+Axis 0 (x): 177 323
+Axis 1 (y): 0 0
+Button 10 (Press Left Stick): 208 297
+
+
+# Right Stick
+Axis Group (Right Stick): 2 3
+Axis 2 (x): 413 327
+Axis 3 (y): 0 0
+Button 11 (Press Right Stick): 376 297
+
+
+# L1/L2
+Button 4 (L1): 129 134
+Axis 4 (L2): 129 94
+#Button 6 (L2 touched): 120 130
+
+
+# R1/R2
+Button 5 (R1): 457 130
+#Button 7 (R2 touched): 498 130
+Axis 5 (R2): 457 90
+
+
+
+Button 0 (□ ): 419 226
+Button 1 (X ): 456 264
+Button 2 (◯ ): 496 226
+Button 3 (△ ): 457 188
+
+# Big middle area
+Button 8 (Create): 169 169
+Button 9 (Options): 420 170
+Button 13 (Pad): 289 179
+
+Button 12 (PS): 295 300
+
+# only available when connected via USB
+#Button 14 (Mute): 295 324
+
+
+
+
