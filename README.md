@@ -1,9 +1,10 @@
 # Playstation 5 DualSense Wireless-Controller X-Plane .joy-File
 
-Add both files to XPLANE/Resources/joystick configs/ and you should be able to visually configure the controller (either connected via Bluetooth or USB). I have setup some default assignments which I like the most.
+Add both files to XPLANE/Resources/joystick configs/ and you should be able to visually configure the controller (either connected via Bluetooth or USB). 
 
+![](screenshot.jpg)
 
-Note that the Mic-Mute Button can be used when connected via USB. Uncomment the "Button 14"-Settings in the joy-File.
+I have setup some default assignments which I like the most. Note that the Mic-Mute Button can be used when connected via USB. Uncomment the "Button 14"-Settings in the joy-File.
 
 ## Important:
 Note that it was setup to work on an Apple Mac! It would have to be adapted for other operating systems as the axis and button numbers might differ.
