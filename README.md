@@ -1,6 +1,6 @@
 # Playstation 5 DualSense Wireless-Controller X-Plane .joy-File
 
-Add both files to XPLANE/Resources/joystick configs/ and you should be able to visually configure the controller (either connected via Bluetooth or USB). 
+Copy the files [PS5 DualSense Wireless-Controller - Mac.joy](PS5 DualSense Wireless-Controller - Mac.joy) and [PS5 DualSense Wireless-Controll-Front.png](PS5 DualSense Wireless-Controll-Front.png) to XPLANE/Resources/joystick configs/ and you should be able to visually configure the controller (either connected via Bluetooth or USB). 
 
 ![](screenshot.jpg)
 
@@ -11,6 +11,6 @@ Note that it was setup to work on an Apple Mac! It would have to be adapted for 
 
 See also [Developer Documentation](https://developer.x-plane.com/article/creating-joystick-configuration-joy-files/) and [https://feedback.x-plane.com/posts/1430/ps4-ps5-controller-support](https://feedback.x-plane.com/posts/1430/ps4-ps5-controller-support)
 
-As of XPlane 11 such a file is not present yet. Maybe they want to add something for X-Plane 12.
+Currently as of XPlane 11 the controller can be used, but needs to be configured manually. But without a .joy File X-Plane will not know that both sticks are centerable which limits the number of assigments that make sense.
 
 All trademarks and images copyright by Sony.
