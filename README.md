@@ -1,18 +1,21 @@
 # Playstation 5 DualSense Wireless-Controller X-Plane .joy-File
 
-Copy the files [PS5 DualSense Wireless-Controller - Mac.joy](PS5 DualSense Wireless-Controller - Mac.joy) and [PS5 DualSense Wireless-Controll-Front.png](PS5 DualSense Wireless-Controll-Front.png) to XPLANE/Resources/joystick configs/ and you should be able to visually configure the controller (either connected via Bluetooth or USB). 
+Copy the files PS5 DualSense Wireless-Controller - Mac.joy and PS5 DualSense Wireless-Controll-Front.png to XPLANE/Resources/joystick configs/ and you should be able to visually configure the controller (either connected via Bluetooth or USB). 
 
 ![](screenshot.jpg)
 
 I have setup some default assignments which I like the most:
 
 **Left-Stick:** x=Roll/y=Pitch
+
 **Left-Stick-Press:** Pitch trim down
 
 **Right-Stick:** x=Yaw, y=Throttle up and down a bit
+
 **Right-Stick-Press:** Pitch trim up
 
 **Arrow-Buttons on the right:** Hat-Switch
+
 **Action-Buttons on the left:** Move View left,right,up,down
 
 **L2/R2:** Toe break left and right
