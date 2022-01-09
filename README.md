@@ -4,7 +4,25 @@ Copy the files [PS5 DualSense Wireless-Controller - Mac.joy](PS5 DualSense Wirel
 
 ![](screenshot.jpg)
 
-I have setup some default assignments which I like the most. Note that the Mic-Mute Button can be used when connected via USB. Uncomment the "Button 14"-Settings in the joy-File.
+I have setup some default assignments which I like the most:
+
+**Left-Stick:** x=Roll/y=Pitch
+**Left-Stick-Press:** Pitch trim down
+
+**Right-Stick:** x=Yaw, y=Throttle up and down a bit
+**Right-Stick-Press:** Pitch trim up
+
+**Arrow-Buttons on the right:** Hat-Switch
+**Action-Buttons on the left:** Move View left,right,up,down
+
+**L2/R2:** Toe break left and right
+
+**L1/R1:** Zoom out/in
+
+For the other buttons I vary between quicklook-buttons/flaps and/or autopilot stuff.
+
+
+Note that the Mic-Mute Button can only be used when connected via USB. The touch pad behaves like a regular button. Uncomment the "Button 14"-Settings in the joy-File.
 
 ## Important:
 Note that it was setup to work on an Apple Mac! It would have to be adapted for other operating systems as the axis and button numbers might differ.
