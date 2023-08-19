@@ -2,7 +2,7 @@ I
 1100 Version
 JOY
 
-OS: Mac
+OS: Windows
 
 
 Name: Dualsense Wireless Controller
@@ -17,7 +17,6 @@ ID: VID:0x054cPID:0x0ce6
 
 Assignments:
 --------------------------------------------------------------
-
 
 # Left Stick
 Axis 0: joy_use_roll
@@ -143,6 +142,9 @@ Button 12 (PS): 295 300
 #Button 14 (Mute): 295 324
 
 
+
+
+
 View: Top
 --------------------------------------------------------------
 Image: PS5 DualSense Wireless-Controll-Top.png
@@ -151,13 +153,14 @@ Image: PS5 DualSense Wireless-Controll-Top.png
 # L1/L2
 Button 4 (L1): 505 135
 Axis 4 (L2): 505 200
-#Button 6 (L2 touched): 129 175
+#Button 6 (L2 touched): 120 130
 
 
 # R1/R2
 Button 5 (R1): 129 135
 Axis 5 (R2): 129 200
-#Button 7 (R2 touched): 477 155
+#Button 7 (R2 touched): 498 130
+
 
 
 

@@ -1,6 +1,6 @@
 # Playstation 5 DualSense Wireless-Controller X-Plane .joy-File
 
-Copy the files PS5 DualSense Wireless-Controller - Mac.joy and PS5 DualSense Wireless-Controll-Front.png to XPLANE/Resources/joystick configs/ and you should be able to visually configure the controller (either connected via Bluetooth or USB). 
+Copy the files PS5 DualSense Wireless-Controller - Mac.joy, PS5 DualSense Wireless-Controller - Windows.joy, PS5 DualSense Wireless-Controll-Top.png and PS5 DualSense Wireless-Controll-Front.png to XPLANE/Resources/joystick configs/ and you should be able to visually configure the controller (either connected via Bluetooth or USB). 
 
 ![](screenshot.jpg)
 
@@ -28,7 +28,7 @@ For the other buttons I vary between quicklook-buttons/flaps and/or autopilot st
 Note that the Mic-Mute Button can only be used when connected via USB. The touch pad behaves like a regular button. Uncomment the "Button 14"-Settings in the joy-File.
 
 ## Important:
-Note that it was setup to work on an Apple Mac! It would have to be adapted for other operating systems as the axis and button numbers might differ.
+Note that it was setup to work on an Apple Mac! It would have to be adapted for other operating systems as the axis and button numbers might differ. According to another User it also worked in windows so I included the Windows-file as well. I did not test it.
 
 See also [Developer Documentation](https://developer.x-plane.com/article/creating-joystick-configuration-joy-files/) and [https://feedback.x-plane.com/posts/1430/ps4-ps5-controller-support](https://feedback.x-plane.com/posts/1430/ps4-ps5-controller-support)
 
